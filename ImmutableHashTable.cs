@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics.CodeAnalysis;
 using System.Runtime.CompilerServices;
 
-namespace DictionaryBenchmarks
+namespace HashTableBenchmarks
 {
     public sealed class ImmutableHashTable<TKey, TValue>
     {

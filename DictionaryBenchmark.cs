@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using BenchmarkDotNet.Attributes;
 
-namespace DictionaryBenchmarks
+namespace HashTableBenchmarks
 {
     [MemoryDiagnoser]
     public class DictionaryBenchmark
